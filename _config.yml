@@ -1,15 +1,15 @@
 # Build settings
 markdown: redcarpet
-highlighter: pygments
+#highlighter: pygments
 gems:
   - jemoji
   
 # Site settings
-title: "Mediator"
+title: "J. Justin Wilson"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   J. Justin Wilson
 
-email: a-mail@mail.mail
+email: j@jamesjwilson.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
