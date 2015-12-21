@@ -1,30 +1,30 @@
 # Build settings
 markdown: redcarpet
-highlighter: pygments
+#highlighter: pygments
 gems:
   - jemoji
   
 # Site settings
-title: "Mediator"
+title: "J. Justin Wilson"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+  Director of Communications @ij & @Scouts4Equality
 
-email: a-mail@mail.mail
+email: j@jamesjwilson.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/green.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'J. Justin Wilson'
+author: 'J. Justin Wilson'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	10
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://jjust.in" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@jjustinwilson'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -32,21 +32,21 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    url:	https://twitter.com/jjustinwilson
+    desc: Follow me on Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
 #  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+    url:	https://facebook.com/jjustinwilson
+    desc: Connect with me facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/jjustinwilson
     desc:	Fork me on github
     share_url:
     share_title:

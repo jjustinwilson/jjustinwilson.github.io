@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Test Post"
+date:   2015-11-30 14:34:25
+categories: mediator feature
+tags: featured
+image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+---
+#Test Post
+
+Examples for different formats and css features
+
+#Header Formats
+#Header1
+##Header2
+
+
