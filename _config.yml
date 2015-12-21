@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: j@jamesjwilson.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/logo.jpg"
 # blog cover
 cover: "/assets/images/green.jpg"
 
